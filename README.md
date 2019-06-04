@@ -5,4 +5,5 @@ this program is written to simulate the behaviours for stock market. I try to ad
 They are,
  1) Composite Pattern
  2) State Pattern
- 3) Builder De
+ 3) Builder Pattern
+ 
